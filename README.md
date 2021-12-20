@@ -59,7 +59,7 @@
 
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoJinn%2Fhit-counter&count_bg=%23C83D3D&title_bg=%236D6D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgrape420%2Fhit-counter&count_bg=%23DDCC73&title_bg=%23F9E2B3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 #
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=grape420&show_icons=true&theme=vue )
