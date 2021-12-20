@@ -10,7 +10,7 @@
 <br>
 <h3 align="center">✨ Tech Stacks ✨ </h3>
 <br>
-<p>
+<p align="center">
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MyBatis-232F3E?style=flat&logo=MyBatis&logoColor=#A8B9CC"/>&nbsp;&nbsp;
@@ -22,7 +22,7 @@
 </p>
 
 
-<p>
+<p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;
@@ -31,7 +31,8 @@
 </p>
 
 
-<p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
+<p align="center">
+   <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 </p>
