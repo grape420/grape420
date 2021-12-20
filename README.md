@@ -39,18 +39,17 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
- <a href="https://www.linkedin.com/in/jacobjhlee" target="blank">
-  <img align="center" alt="Jacob's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
-   <a href="https://velog.io/@jacoblee19" target="blank">
-  <img align="center" alt="Jacob's Blog" width="30px" src="https://www.vectorlogo.zone/logos/blogger/blogger-tile.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.instagram.com/jacob.lee19/" target="blank">
-  <img align="center" alt="Jacob's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.facebook.com/juhyung.lee.3914/" target="blank">
-  <img align="center" alt="Jacob's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
- </a>
+ <a href="https://www.notion.so/9cb620fcb1a74dbeb7b2b9315596f0b9">
+    <img 
+        src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://developer-jinn.notion.site/Jinn-b99d082a3a4346278b5794a950b911e0"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+<a href = mailto:kkok0420@gmail.com>
+    <img 
+        src="http://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quizho93@gmail.com)](mailto:quizho93@gmail.com)"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
   <br/>
 </p>
