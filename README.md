@@ -17,6 +17,7 @@
    <img src="https://img.shields.io/badge/Springboot-white?style=flat&logo=Springboot&logoColor=#3776AB"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/>
    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JSP/Servlet-%230db7ed?style=flat&logo=JSP/Servlet&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JPA-181717?style=flat&logo=JPA&logoColor=7952B3"/>
 </p>
 
@@ -31,7 +32,6 @@
    <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/JSP/Servlet-%230db7ed?style=flat&logo=JSP/Servlet&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
 <h3 align="center">•••</h3>
