@@ -30,7 +30,8 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=white"/>&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/JSP/Servlet-%230db7ed?style=flat&logo=JSP/Servlet&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
 <h3 align="center">•••</h3>
